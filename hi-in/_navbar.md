@@ -10,7 +10,7 @@
 * अतिरिक्त
     * [MobSF Docker विकल्प](docker.md)
     * [MobSF अपडेट](updating.md)
-    * [परीक्षण चलान](tests.md)
+    * [परीक्षण](tests.md)
     * [अतिरिक्त ](extras.md)
     * [सामान्य प्रश्न](faq.md)
 * अनुवाद
