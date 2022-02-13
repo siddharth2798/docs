@@ -17,4 +17,4 @@
     * [:uk: English](/)
     * [:cn: 中文](/zh-cn/)
     * [:jp: 日本語](/ja-jp/)
-    * [:in: हिन्दी](/hi-in/)
+    * [:india: हिन्दी](/hi-in/)
