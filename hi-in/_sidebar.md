@@ -4,7 +4,7 @@
 * [आवश्यकताएं](requirements.md)
 * [इंस्टालेशन](installation.md)
 * [MobSF चलाना](running.md)
-* [डायनामिक एनालाइज़रो का विन्यास](dynamic_analyzer.md)
+* [डायनामिक विश्लेषण का विन्यास](dynamic_analyzer.md)
 * [MobSF Docker विकल्प](docker.md)
 * [MobSF अपडेट](updating.md)
 * [परीक्षण](tests.md)
